@@ -9,7 +9,7 @@ But there is an idea behind them that, if pursued, could yield some useful tools
 ## Idea #1
 **Summary**: Program that turns a drawing of a tree into a programmed AST.
 
-**Prerequisites**: OCR and ability to fuse its results with programming languages concepts
+**Prerequisites**: [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) and ability to fuse its results with programming languages concepts
 
 **Details**: This program would be useful for those who don't want to code an AST or lack
 the skills or knowledge. An AST has many [uses](https://en.wikipedia.org/wiki/Abstract_syntax_tree#Usage),
