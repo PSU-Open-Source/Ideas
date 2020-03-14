@@ -30,10 +30,12 @@ Maybe the use of the unix program *tee* to keep track of input.
 When a user tester is [monkey testing](https://www.softwaretestinghelp.com/what-is-monkey-testing-in-software-testing/)
 a program they follow a linear path, starting at point 0 and moving to point x.
 
-There are a few problems with this. When they have tested paths and received a segfault 
+There are a few problems with this. 
+1. When they have tested paths and received a segfault 
 at path x, they have no way to return to the previous invocation/safe place before 
 the segfault occurred and proceed 
-to test further; they must start over at point 0. When a user is testing paths, 
+to test further; they must start over at point 0. 
+2. When a user is testing paths, 
 they have no ability to determine if they have traversed all paths (and what values 
 they have inputted) unless they manually write/type this.
 
