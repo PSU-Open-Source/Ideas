@@ -1,7 +1,7 @@
 # A repo of ideas.
 
 These are *some* (not all) of ideas I have had over the course of my time at
-Portland State University in the post-bac and then the graduate program.
+Portland State University in the grad-prep and then the graduate program.
 
 Some ideas may not be good (I did my best and left some out). Many of them don't have any implementation. 
 But there is an idea behind them that, if pursued, could yield some useful tools (hopefully).
