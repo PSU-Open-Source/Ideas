@@ -22,7 +22,7 @@ This, in theory, would reduce the need for coders to code an AST.
 **Summary**: A program that memorizes (memoizes..?) previous input to a program. Monkey testing is
 rarer these days, but not extinct.
 
-**Prerequisites**: Probably *expect* or Pythons *pexpect* when replaying previous input and expecting previous output. 
+**Prerequisites**: ~Probably *expect* or Pythons *pexpect*~ AUTOEXPECT does this (suggestion: Teal) when replaying previous input and expecting previous output. 
 Maybe the use of the unix program *tee* to keep track of input.
 
 **Details**: This is a good tool for those that do user testing.
